@@ -1,0 +1,29 @@
+img{
+  height: 95px;
+  width: 269px;
+  margin-top: 150px;
+}
+
+div{
+  width: 330px;
+  margin-left: auto;
+  margin-right: auto;
+  }
+button{
+  font-weight: bold; 
+  font-family: Arial; sans-serif;
+  font-size: 11px;
+  color: #444;
+  padding: 2px 6px 3px;
+  margin: 7px;
+  }
+button:hover{
+  box-shadow: 0 1px 1px 1px #dddddd;
+  }
+  .button{
+    width: 300px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 10px;
+	}
+	
